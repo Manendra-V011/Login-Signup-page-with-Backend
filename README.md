@@ -4,7 +4,17 @@ This project is a login/signup page with a backend implementation, designed to p
 **Key Features:**
 User Registration
 User Authentication
-Password Security
 Session Management
 Backend Integration
+
+**Available in few days:**
 Responsive User Interface
+Password Security
+
+**Technologies Used:**
+for Frontend : HTML,CSS,JS
+for Backend : PHP,MYSQL
+Database tool: XAMPP
+
+
+Contributor : Manu (Frontend)
